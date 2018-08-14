@@ -1,0 +1,6 @@
+framework module AFOAuth2Manager {
+  umbrella header "AFOAuth2Manager.h"
+
+  export *
+  module * { export * }
+}
